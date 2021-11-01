@@ -33,8 +33,3 @@
 + Distribution of Rating Per Date/Year
 + Distribution of Review Per Year
 + Amount of review per year
-
-
-#### By
-+ Jesus Saves @JCharisTech
-+ Jesse E.Agbe(JCharis)
